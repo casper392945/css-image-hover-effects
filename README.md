@@ -1,2 +1,2 @@
-# css-image-hover-effects
+# CSS Image Hover Effects
 GitHub Pages
