@@ -2493,3 +2493,20 @@ a {
   text-align: left;
   color: #bbbbbb;
 }
+.cid-sd6ucUbfPk {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+  --mainColor: #ff9800;
+}
+.cid-sd6ucUbfPk .media-container-row .mbr-text {
+  color: #000000;
+}
+.cid-sd6ucUbfPk a.imgHover {
+  background: linear-gradient(to right, var(--mainColor) 0%, var(--mainColor) 5px, transparent);
+  background-repeat: repeat-x;
+  background-size: 100%;
+  color: #000;
+  padding-left: 10px;
+  text-decoration: none;
+}
